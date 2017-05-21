@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\vspro\opengl_solar\opengl_solar\data.h(45): warning C4838: 从“double”转换到“float”需要收缩转换
+d:\vspro\opengl_solar\opengl_solar\data.h(45): warning C4305: “初始化”: 从“double”到“float”截断
+d:\vspro\opengl_solar\opengl_solar\data.h(57): warning C4838: 从“double”转换到“float”需要收缩转换
+d:\vspro\opengl_solar\opengl_solar\data.h(57): warning C4305: “初始化”: 从“double”到“float”截断
+d:\vspro\opengl_solar\opengl_solar\data.h(86): warning C4838: 从“double”转换到“float”需要收缩转换
+d:\vspro\opengl_solar\opengl_solar\data.h(86): warning C4305: “初始化”: 从“double”到“float”截断
+d:\vspro\opengl_solar\opengl_solar\main.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+  Star.cpp
+  正在生成代码...
+  openGL_solar.vcxproj -> D:\vsPro\openGL_solar\Debug\openGL_solar.exe
+  openGL_solar.vcxproj -> D:\vsPro\openGL_solar\Debug\openGL_solar.pdb (Full PDB)
